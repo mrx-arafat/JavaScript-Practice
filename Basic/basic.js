@@ -9,3 +9,12 @@ console.log(typeof numString) //type string
 //parseInt() - To convert String into a Number 
 var numParsed=parseInt (numString) //type number
 console.log(typeof numParsed) 
+
+var total= num+numParsed;
+
+console.log(total)
+
+//parseFloat , toFixed 
+
+
+

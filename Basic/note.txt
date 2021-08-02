@@ -1,0 +1,5 @@
+toFixed 
+
+parseInt(string)
+
+parseFloat(string)
