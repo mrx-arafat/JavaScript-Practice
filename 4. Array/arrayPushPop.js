@@ -9,7 +9,6 @@ console.log(color);
 console.log(color.length);
 // run in chrome debug console
 
-//pop()
-color.pop();
-console.log(color);
-console.log(color.length);
+// color.pop();
+// console.log(color);
+// console.log(color.length);
