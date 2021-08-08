@@ -1,4 +1,4 @@
-function fahrenheitToCelsius(tempFahrn) {
+function fahrenheitToCelsius(tempFahrn ) {
   // Take whatever temperature the function is handed, do some math and return it.
   const celsius = (tempFahrn - 32) * (5 / 9);
 
