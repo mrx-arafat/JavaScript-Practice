@@ -4,15 +4,15 @@
 
 const persons = [
   {
-    name: "poly",
+    name: "Arafat",
     age: "20",
   },
   {
-    name: "dipu",
+    name: "Don",
     age: "23",
   },
   {
-    name: "robin",
+    name: "Dogggy",
     age: "23",
   },
 ];
